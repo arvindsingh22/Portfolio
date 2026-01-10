@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arvindsingh22",
   resume:
-    "https://drive.google.com/drive/home",
+    "https://drive.google.com/file/d/1uIRA_nMfEIj2G_BsM_FYUhm_MFUMQPHg/view",
   linkedin: "https://www.linkedin.com/in/arvind-singh-8104973a2/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/__arvind.rathore/",
