@@ -397,7 +397,7 @@ export const projects = [
     description:
       "To analyze the dataset and extract meaningful insights using Python.",
     image:
-      "https://private-user-images.githubusercontent.com/186154490/533756304-8e6619bf-8eb8-4c85-80cc-3b7c74d9398f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NDA1OTMsIm5iZiI6MTc2Nzk0MDI5MywicGF0aCI6Ii8xODYxNTQ0OTAvNTMzNzU2MzA0LThlNjYxOWJmLThlYjgtNGM4NS04MGNjLTNiN2M3NGQ5Mzk4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwOVQwNjMxMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTZjYjQyNGQ3ZmE0M2EyY2NhYjA4MjhkODFhYzJlZDIzZGNjNjdmODhmOTFjMmM2MWVmZjA0YmZmZmRmMzk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0Jx4svMk0Fvem4BVtQAoMrPGQ02xR4lJIc6EMDYk0fo",
+      "/images/diwali.png",
     tags: [
       "Python",
       "Pandas",
@@ -405,9 +405,8 @@ export const projects = [
       "Matplotlib",
       "Seaborn",
     ],
-    category: "web app",
+    
     github: "https://github.com/arvindsingh22/Diwali_Sales_Analysis",
-    // webapp: "https://decisionhub.netlify.app/",
   },
   {
     id: 9,
@@ -416,7 +415,7 @@ export const projects = [
     description:
       "This project focuses on analyzing a digital music store database using SQL to extract meaningful business insights.e",
     image:
-      "https://private-user-images.githubusercontent.com/186154490/533757898-39a1df84-55b7-4404-bb7c-23f5dce3a580.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NDA5MjEsIm5iZiI6MTc2Nzk0MDYyMSwicGF0aCI6Ii8xODYxNTQ0OTAvNTMzNzU3ODk4LTM5YTFkZjg0LTU1YjctNDQwNC1iYjdjLTIzZjVkY2UzYTU4MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwOVQwNjM3MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzczZDFjMWJhMTI5MmFhY2FmNDc5MTdkNGYxNzJmMTZlYjg1ZWJkNTg4ZTliODVlNWFjMDA1MDk2YWFlMTUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eJAEOUpLWupvxos7iUPJVMqYT4_14veFNyNyiWIGXVk",
+      "/images/sql-music.png",
     tags: [
       "PostgreSql",
       "Python",
@@ -424,37 +423,11 @@ export const projects = [
       "Excel",
      
     ],
-    category: "web app",
+   
     github: "https://github.com/arvindsingh22/SQL_Music_store_Analysis",
-    //  webapp: "https://trackify-management.netlify.app/",
+   
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
+  
   {
     id: 1,
     title: "Customer_Shopping_Behaviour_Analysis",
@@ -462,7 +435,7 @@ export const projects = [
     description:
       "This end-to-end data analytics project transforms raw data into actionable insights using Python, SQL, Excel and Power BI. It showcases the complete analytics lifecycle — from data ingestion and cleaning to dashboarding and executive-level storytelling.",
     image:
-      "https://private-user-images.githubusercontent.com/186154490/533764242-2ff575b4-e11f-405d-879f-d07c214ca46b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NDIwNjMsIm5iZiI6MTc2Nzk0MTc2MywicGF0aCI6Ii8xODYxNTQ0OTAvNTMzNzY0MjQyLTJmZjU3NWI0LWUxMWYtNDA1ZC04NzlmLWQwN2MyMTRjYTQ2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwOVQwNjU2MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNWYyYzFhZDMyZTA4YzYyYmI1NDcwZjM2ZmZkNTAyZjkyNDU0MGUzY2E3OTY4YmVlMzFmMWVlY2ExZWNkY2IxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SPylcTxCmlxmtWwcI-Cnmqv0b3agwZJfrBYCeKKqmwA",
+       "/images/customer.png",
     tags: [
       "Power BI",
       "Python",
@@ -471,9 +444,9 @@ export const projects = [
       "JupyterNotebook",
       "VsCode",
     ],
-    category: "web app",
+    
     github: "https://github.com/arvindsingh22/Customer-Trends-Data-Analysis-Python-SQL-PowerBi",
-     webapp: "https://vexa-app.netlify.app/",
+    
   },
   // {
   //   id: 2,
