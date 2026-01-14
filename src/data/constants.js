@@ -269,7 +269,7 @@ export const experiences = [
     role: "Data Analytics Job Simulation  (Virtual Intern)",
     company: "Deloitte",
     date: "april 2025 - august 2025",
-    desc: " Performed Exploratory Data Analysis (EDA) on real-world business datasets to identify trends, patterns, and anomalies.◦ Cleaned and preprocessed data using Python (Pandas, NumPy) by handling missing values, outliers, and inconsistencies.◦ Created meaningful data visualizations using Matplotlib and Seaborn to support data-driven insights.◦ Generated actionable insights and summary reports to assist stakeholders in understanding key business metrics.",
+    desc: " Performed Exploratory Data Analysis (EDA) on real-world business datasets to identify trends, patterns, and anomalies.◦ Cleaned and preprocessed data using Python (Pandas, NumPy) by handling missing values, outliers, and inconsistencies.◦ Created meaningful data visualizations using Matplotlib and Seaborn to support data-driven insights.",
     skills: [
       "Python",
       "Sql",
